@@ -1,0 +1,19 @@
+{
+  "name": "react_password_generator",
+  "version": "1.0.0",
+  "description": "React Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush-Pandey01/React_Password_Generator.git"
+  },
+  "author": "\"Ayush Pandey\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayush-Pandey01/React_Password_Generator/issues"
+  },
+  "homepage": "https://github.com/Ayush-Pandey01/React_Password_Generator#readme"
+}
